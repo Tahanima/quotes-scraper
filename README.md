@@ -1,4 +1,4 @@
-# quote-scraper
+# quotes-scraper
 This project aims to extract the quotes and the names of their authors from the [Quotes to Scrape](http://quotes.toscrape.com/) site.
 
 ## Tools Used
