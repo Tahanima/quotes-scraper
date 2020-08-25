@@ -3,7 +3,7 @@ require 'webdrivers/chromedriver'
 require 'csv'
 
 $driver
-$info = []
+$info = [['Quote', 'Author']]
 
 def setup
   option = Selenium::WebDriver::Chrome::Options.new
